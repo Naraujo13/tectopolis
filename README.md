@@ -34,16 +34,20 @@ O projeto deve conter um breve Readme (formato Markdown) com instruções de ins
 
 Utilize um destes datasets para popular a sua aplicação. Quem sabe simular bots que postam baseado em algum conteúdo? Ou um bot que responde com base no que você twitta para ele? Enfim, sejam criativos no uso destes dados.
 
-- Doações Realizadas para candidatos nas eleições brasileiras de 2014
+- **Doações Realizadas para candidatos nas eleições brasileiras de 2014**
+
 https://www.kaggle.com/felipeleiteantunes/electoral-donations-brazil2014#receitas_candidatos_2014_brasil_english.csv
 
-- Focos de incêndios florestais no Brasil
+- **Focos de incêndios florestais no Brasil**
+
 https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil
 
-- Preço da gasolina no Brasil
+- **Preço da gasolina no Brasil**
+
 https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil
 
-- Vôos em aerportos brasileiros em 2016/2017
+- **Vôos em aerportos brasileiros em 2016/2017**
+
 https://www.kaggle.com/ramirobentes/flights-in-brazil 
 
 
