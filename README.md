@@ -30,13 +30,21 @@ O projeto deve conter um breve Readme (formato Markdown) com instruções de ins
 - Controle de versão com GitHub
 - Readme com instruções
 
-## Extras
+## Datasets
 
-- Funcionalidade para Upload de novos XML para a base
-- Utilização de componentes VueJS
-- Testes (TDD)
-- Boas práticas e padrões de projeto
-- Organização e documentação do fluxo de desenvolvimento (um board no trello, asana e etc)
+Utilize um destes datasets para popular a sua aplicação. Quem sabe simular bots que postam baseado em algum conteúdo? Ou um bot que responde com base no que você twitta para ele? Enfim, sejam criativos no uso destes dados.
+
+- Doações Realizadas para candidatos nas eleições brasileiras de 2014
+https://www.kaggle.com/felipeleiteantunes/electoral-donations-brazil2014#receitas_candidatos_2014_brasil_english.csv
+
+- Focos de incêndios florestais no Brasil
+https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil
+
+- Preço da gasolina no Brasil
+https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil
+
+- Vôos em aerportos brasileiros em 2016/2017
+https://www.kaggle.com/ramirobentes/flights-in-brazil 
 
 
 ## Entregáveis/Apresentação
