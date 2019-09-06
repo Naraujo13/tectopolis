@@ -51,7 +51,9 @@ https://www.kaggle.com/ramirobentes/flights-in-brazil
 
 ## Entregáveis/Apresentação
 
-Para execução do teste, deverá ser realizado o fork deste repositório e desenvolvido a partir de então.
+Para execução do teste, deverá ser realizado o fork deste repositório e desenvolvido a partir de então. Ao fim do desafio, 
+o grupo deverá apresentar sua solução para uma banca de avaliação defendendo a contribuição de cada integrante e também 
+explicar as escolhas utilizadas no desenvolvimento da solução.
 
 ## Dicas e sugestões:
 
