@@ -29,7 +29,10 @@ O projeto deve conter um breve Readme (formato Markdown) com instruções de ins
 
 ## Datasets
 
-Utilize um destes datasets para popular a sua aplicação. Quem sabe simular bots que postam baseado em algum conteúdo? Ou um bot que responde com base no que você twitta para ele? Sejam criativos na utilização destes dados.
+Utilize um destes datasets para popular a sua aplicação. Quem sabe simular bots que postam baseado em algum conteúdo? Ou um bot que responde com base no que você twitta para ele? 
+
+Sejam criativos na utilização destes dados.
+
 Os datasets fornecidos para este desafio, dentre os quais um deve ser escolhido e utilizado são: 
 
 | Nome | Link |
