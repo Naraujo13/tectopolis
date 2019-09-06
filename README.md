@@ -29,7 +29,8 @@ O projeto deve conter um breve Readme (formato Markdown) com instruções de ins
 
 ## Datasets
 
-Os datasets fornecidos para este desafio e que devem ser utilizados para a sua aplicação são: 
+Utilize um destes datasets para popular a sua aplicação. Quem sabe simular bots que postam baseado em algum conteúdo? Ou um bot que responde com base no que você twitta para ele? Sejam criativos na utilização destes dados.
+Os datasets fornecidos para este desafio, dentre os quais um deve ser escolhido e utilizado são: 
 
 | Nome | Link |
 | --- | --- |
@@ -38,10 +39,6 @@ Os datasets fornecidos para este desafio e que devem ser utilizados para a sua a
 | **Preço dos combustíveis no Brasil** | https://bit.ly/2kmzHbI |
 | **Vôos em aeroportos brasileiros em 2016/2017** | https://bit.ly/2lZqiXO |
 
-Exemplos podem incluir (mas não são limitados a):
-- Simular bots que postam informações baseando-se em algum conteúdo;
-- Servço que responde com base no que você twitta para ele;
-
 ## Entregáveis/Apresentação
 
 Como explicado anteriormente, para a execução do teste você deve realizar o fork deste repositório e desenvolver a partir do repoitório forkado. 
@@ -49,4 +46,6 @@ Ao fim do desafio o grupo deverá apresentar sua solução para uma banca de ava
 
 ## Dicas e sugestões:
 
-- [Heroku](https://www.heroku.com/) é um serviço que pode ser utilizado gratuitamente para hospedar a aplicação
+- O dataset pode ser usado para simular bots que postam informações baseando-se em algum conteúdo;
+- O dataset pode ser usado para um serviço que responde com base no que você twitta para ele;
+- O [Heroku](https://www.heroku.com/) é um serviço gratuito de hospedagem
