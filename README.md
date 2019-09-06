@@ -1,34 +1,32 @@
 # Desafio Tectopólis - Donamaid, Indeorum e Moblize
 
 ## Introdução
-A indeorum iniciou como uma empresa voltada a serviços de data science aplicados a pós-graduação brasileira.
-Por isso, seus três produtos lançados são voltados para esta área (Cientum, Ranquium e Quantum).
 
-## Objetivo do Teste
+O Tectopólis é um evento organizado entre a parceria de Donamaid, Indeorum e Moblize. Este evento foi elaborado 
+com o intuito de conhecer talentos da área de tecnologia na região sul e fomentar essa comunidade com um dia de desafios 
+diferente dos eventuais hackatons.
 
-Como uma startup que iniciou na área da educação, a Indeorum processa grandes quantidades de dados provenientes das plataformas Lattes e Sucupira. Na plataforma Lattes os dados são exportados no formato de XML, no formato do arquivo de exemplo apresentado na seção abaixo.
-Sua tarefa será criar uma aplicação MVC em Ruby on Rails que lê arquivos de entrada no formato XML do lattes (como o apresentado), armazena-os em uma base de dados MongoDB e apresenta-os em uma interface no estilo material design (você poderá usar o framework desejado para material, como materialize, material design lite, vuetify e etc).
+## Desafio proposto
 
-O projeto deverá conter uma página que liste os pesquisadores inseridos, apresentando seu nome e quantidade de artigos. Esta tela deverá permitir a realização de uma busca nesta lista, buscando pelo nome do pesquisador. 
+Nesta edição o desafio proposto pelo Tectopólis é o desenvolvimento de uma réplica do microblog [Twitter](https://twitter.com/), considerando a criação, consulta, atualização e destruição (CRUD). Para complementar, deverá ser utilizado um dos datasets fornecidos na seção Datasets para alimentar a aplicação. A forma de como este dataset será usado é de livre escolha do participante, sendo levada em consideração a criatividade e inovação.
 
-Qualquer tecnologias/ferramenta/padrões adicionais como VueJS, TDD, testes e etc não são obrigatórios, porém poderão ser considerados extras.
+## Objetivo do desafio proposto
 
-Para a realização do teste, **este repositório deverá ser forkado e o projeto desenvolvido a partir da nova instância.**
+O desafio proposto tem como objetivo auxiliar os participantes a demonstrar seus conhecimentos técnicos em programação e demonstrar sua criatividade ao simular um ambiente de microblogging usando um dos datasets sugeridos. Os participantes tem liberdade total
+na escolha das tecnologias utilizadas para o desenvolvimento do desafio e também o que trabalhar, como algumas análises, baseadas nas
+interações criadas dentro do microblog. 
+
+Qualquer tecnologias/ferramenta/padrões como frameworks, TDD, testes e etc não são obrigatórios, porém poderão ser considerados extras.
+
+Para a realização do desafio, **este repositório deverá ser forkado e o projeto desenvolvido a partir da nova instância.**
 
 O projeto deve conter um breve Readme (formato Markdown) com instruções de instalação e uso.
 
-## Exemplo de Arquivo de Entrada
-[Currículo de Exemplo](public/researcher_example.xml)
-
 ## Requisitos
 
-- Ruby on Rails Project(MVC)
-- Interface Material Design
-- Script de carregamento de XML
-- Lista pesquisável de pesquisadores com seu nome e quantidadade de artigos
-- Utilizar MongoDB
 - Controle de versão com GitHub
 - Readme com instruções
+- Aplicação desenvolvida deve estar hospedado em algum lugar para avaliação da banca
 
 ## Datasets
 
@@ -46,7 +44,7 @@ https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil
 
 https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil
 
-- **Vôos em aerportos brasileiros em 2016/2017**
+- **Vôos em aeroportos brasileiros em 2016/2017**
 
 https://www.kaggle.com/ramirobentes/flights-in-brazil 
 
@@ -54,14 +52,7 @@ https://www.kaggle.com/ramirobentes/flights-in-brazil
 ## Entregáveis/Apresentação
 
 Para execução do teste, deverá ser realizado o fork deste repositório e desenvolvido a partir de então.
-A entrega deverá ser realizada através do envio do link do repositório para o email até **quinta-feira (07/03/19), as 23:59**.
-Na **sexta, dia 08/03/19, às 10h,** será realizada uma etapa presencial consistindo de uma etapa em grupo, além de uma breve apresentação individual do resultado enviado deste teste.
 
 ## Dicas e sugestões:
 
-- Nokogiri Gem para parser de xml
-- MongoID Gem para interface mongodb <-> ruby 
-- GitKraken para controle de versão
-
-## Exemplo de resultado final:
-![Imagem exemplo](img/screen_example.png)
+- [Heroku](https://www.heroku.com/) é um serviço que pode ser utilizado gratuitamente para hospedar a aplicação
