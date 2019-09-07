@@ -1,18 +1,7 @@
-# Desafio Tectopólis - Donamaid, Indeorum e Moblize
-
- <p align="center">
-    <a href="https://donamaid.com/">
-        <img width=150 src="https://donamaid.com/dist/logo_da_donamaid.svg?0e2b6ecf736e354d50ebe4e7ecb1972c"/>
-    <a href="https://www.indeorum.com/">
-        <img width=150 src="https://www.indeorum.com/images/design/indeorum_horizontal.svg"/>
-    </a>
-    </a>
-    <a>
-        <img width=150 src="moblize.png"/>
-    </a>
-</p>
-
 ![alt text](tectopolis.png "Tectopólis")
+
+----
+# Desafio Tectopólis - Donamaid, Indeorum e Moblize
 
 
 ## Introdução
