@@ -1,8 +1,12 @@
-![alt text](tectopolis.png "Tectopólis")
+<p align="center">
+    <a>
+        <img src="tectopolis.png"/>
+    </a>
+</p>
 
 ----
-# Desafio Tectopólis - Donamaid, Indeorum e Moblize
 
+# Desafio Tectopólis - Donamaid, Indeorum e Moblize
 
 ## Introdução
 
