@@ -4,11 +4,13 @@
 
 O Tectopólis é um evento organizado entre a parceria de Donamaid, Indeorum e Moblize. Este evento foi elaborado 
 com o intuito de conhecer talentos da área de tecnologia na região sul e fomentar essa comunidade com um dia de desafios 
-diferente dos eventuais hackatons.
+diferente.
 
 ## Desafio proposto
 
 Nesta edição o desafio proposto pelo Tectopólis é o desenvolvimento de uma réplica do microblog [Twitter](https://twitter.com/), considerando a criação, consulta, atualização e destruição (CRUD). Para complementar, deverá ser utilizado um dos datasets fornecidos na seção Datasets para alimentar a aplicação. A forma de como este dataset será usado é de livre escolha do participante, sendo levada em consideração a criatividade e inovação.
+
+Uma equipe de menotres de diversos perfis, membros das três empresas organizadoras, estarão a disposição para auxiliar durante o processo com sugestões e dúvidas.
 
 ## Objetivo do desafio proposto
 
